@@ -15,10 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 👋 Hey, welcome! I write code, break code, fix code, and somehow end up creating three new bugs in the process. ☕ Powered by caffeine, curiosity, and the occasional existential crisis caused by a missing semicolon. If something here actually works on the first try... we don't question it. 🚀
 -->
-![Static Badge](https://img.shields.io/badge/:badgeContent)
- - https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge
-
-https://img.shields.io/badge/coverage-95%25-orange
-
-https://img.shields.io/badge/github-repo-blue?logo=github
-
+![Static Badge](https://img.shields.io/badge/Java-Purple?style=for-the-badge&logo=openjdk)
